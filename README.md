@@ -1,6 +1,6 @@
 # Taiwanga.com: A Trilingual PHP-Based Illustration Gallery
 
-**[ClipArTaiwAnga (台灣畫尪仔)](taiwanga.com)** is a trilingual illustration gallery system built with PHP and MySQL, designed for scalable cultural archiving and educational accessibility. The system is fully dynamic, modular, and supports advanced filtering via hierarchical tags and date-based queries. It is optimized for educational and cultural contexts, with special support for Chinese Zhuyin (Bopomofo) annotations.
+**[ClipArTaiwAnga (台灣畫尪仔)](https://taiwanga.com)** is a trilingual illustration gallery system built with PHP and MySQL, designed for scalable cultural archiving and educational accessibility. The system is fully dynamic, modular, and supports advanced filtering via hierarchical tags and date-based queries. It is optimized for educational and cultural contexts, with special support for Chinese Zhuyin (Bopomofo) annotations.
 
 > This project was designed and implemented independently to explore multilingual UI/UX, web architecture, and scalable filtering systems using server-side rendering.
 
